@@ -1,0 +1,23 @@
+.navbar-brand {
+}
+
+img {
+  border-radius: 100PX;
+}
+
+#mainNav {
+  border-bottom-left-radius: 20PX;
+  border-bottom-right-radius: 20PX;
+}
+
+#about {
+}
+
+#page-top {
+}
+
+@media (min-width: 576px) {
+  div {
+  }
+}
+
